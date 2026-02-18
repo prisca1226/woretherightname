@@ -4,11 +4,11 @@ $(document).ready(function () {
     */
     var content = [
         {
-            title: "I Have Crush On You!!",
-            desc: ""
+            title: "Ngomong sama tembok",
+            desc: "next>>"
         },
         {
-            title: "I Have Crush On You!!",
+            title: "i h a c o y, yah..",
             desc: "mungkin itu sebuah kalimat yg cukup simple, kalimat yang menyimpan banyak harapan juga keraguan dibaliknya. ada harapan yg ingin rasa suka itu tidak jatuh sendirian, juga ada yg harus disiapkan agar bisa menerima konsekuensinya."
         },
         {
